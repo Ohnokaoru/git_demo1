@@ -26,8 +26,4 @@ for i in range(5):
 if y != x:
     print(f"猜錯了，答案為{x}")
 else:
-<<<<<<< HEAD
-    print("123")
-=======
     print(f"一共猜{i+1}次")
->>>>>>> dev
