@@ -20,9 +20,9 @@ for i in range(5):
         else:
             if start < y:
                 start = y + 1
-                print("猜高一點")
+            print("猜高一點")
 
 if y != x:
-    print(f"答案為{x}")
+    print(f"猜錯了，答案為{x}")
 else:
-    print(f"猜對了，一共猜{i+1}次")
+    print(f"一共猜{i+1}次")
