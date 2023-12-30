@@ -1,7 +1,13 @@
 gggg
 sss
 做測試
+<<<<<<< HEAD
 try git merge branchname
 get 
 get
 get
+=======
+
+happy
+happy
+>>>>>>> dev
