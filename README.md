@@ -135,6 +135,10 @@ git remote -v (檢視綁定的雲端倉庫url)
 
 # 本地同步到雲端
 git push->git push --set-upstream origin master #替代的指令為 git push -u origin master
+->->git push #將本地端同步到雲端(以後只需這個指令即可)
+
+# 從雲端同步到本地端:
+git pull
 
 # 複製專案
 git clone https://github.com/Ohnokaoru/git_demo1.git
